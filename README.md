@@ -17,3 +17,8 @@ This repository contains the following files --
 Use the preprocessed_dataset.csv as an input to the training model
 
 
+#### Authors
+
+- Sifat Naseem
+- Ifunanya Ezeumeh
+- Kimaya Havle
