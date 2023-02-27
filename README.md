@@ -14,7 +14,7 @@ Preprocessed_dataset.csv: Preprocessed dataset containing the features required 
 
 The dataset contains a population between the ages of 29 and 64 consisting of 70,000 records of patient data with the target variable (Cardiovascular disease) describing the presence or absence of cardiovascular disease using 12 features.
 
-Steps:
+## Steps:
 Identifying and removing missing entries: Null entries, if any, are removed from the dataset. The dataset from Kaggle did not contain any null entries.
 Identifying and removing identifiers.
 
