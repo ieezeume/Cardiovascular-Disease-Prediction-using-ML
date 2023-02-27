@@ -97,9 +97,11 @@ Recall: 63.63%
 
 Of the three models, Adaboost had the highest accuracy, SVM had the highest precision, and Gaussian Naive Bayes had the highest recall. 
 
-Predicting Cardiovascular disease using Machine Learning 
+Predicting Cardiovascular disease using Machine Learning. 
 
-This repository contains the following files -- 
+Overall, Adaboost had the best performance.
+
+
 
 
 ## Dependencies:
