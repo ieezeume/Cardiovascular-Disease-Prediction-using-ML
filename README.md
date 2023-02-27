@@ -3,7 +3,7 @@
 ## Project Problem:
 To develop a Python program using multiple machine learning algorithms to predict the risk of CVD.
 
-## Data Source
+## Data Source:
 Dataset - https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
 Preprocessing.ipynb: Contains code to preprocess the dataset
@@ -93,7 +93,7 @@ Precision: 75.28%
 
 Recall: 63.63%
 
-## Conclusion
+## Conclusion:
 
 Of the three models, Adaboost had the highest accuracy, SVM had the highest precision, and Gaussian Naive Bayes had the highest recall. 
 
@@ -102,7 +102,7 @@ Predicting Cardiovascular disease using Machine Learning
 This repository contains the following files -- 
 
 
-## Dependencies
+## Dependencies:
 
 
 Python
